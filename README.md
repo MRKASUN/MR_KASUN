@@ -1,4 +1,4 @@
-<div align="center"><h1>🧚‍♂️ 𝐒𝐈𝐓𝐇𝐔𝐖𝐀-𝐌𝐃 🧚‍♂️</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/f9e51e5d61e439020720a.jpg" width="650" height="450"></a></div>
+<div align="center"><h1>🧚‍♂️ KASUN-𝐌𝐃 🧚‍♂️</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/f9e51e5d61e439020720a.jpg" width="650" height="450"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SITHUWA+MD+WHATSAPP+BOT" alt="">
@@ -21,12 +21,12 @@
   
 ***
 
-## Click the button below to get the QR code. | QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
+## Click the button below to get the QR code. | QR එක ස්කෑන් කරන්න.
 
 <a href='https://sithu-web-f87bb3eb3162.herokuapp.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ```bash
-⚠️ if there any error please infrom it support group. | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
+⚠️ if there any error please infrom it support group. | බොට් සම්බන්දව ඇති වන සියලුම ගැටලු අපගේ සමූහය වෙත පිවිස විස්තර දැන ගන්න.
 ```
 
 ## Click the button below to deploy. | Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
@@ -90,7 +90,7 @@
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94772801923&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=KASUN-md&env[PACK_INFO]=KASUN-MD;BY-MRKASUN-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=KASUN-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    
@@ -154,13 +154,13 @@
 
 # Developers
 
-<h2 align="center">SITHUWA-MD
+<h2 align="center">KASUN-MD
 </h2>
 
   <p align="center">
     
 | <a href="https://www.facebook.com/sithum.kalhara.7315?mibextid=ZbWKwL"><img src="https://telegra.ph/file/e76957eb944d94553a0c5.jpg" width=100 height=100></a> |
 |---|
-| **[Sithum Kalhara](https://github.com/Sithuwa)**</br>Founder & Developer</br>*[Sithum Kalhara]* |
+| **[KASUN SANDEEPA](https://github.com/Sithuwa)**</br>Founder & Developer</br>*[KASUN SANDEEPA]* |
   </p>
 
